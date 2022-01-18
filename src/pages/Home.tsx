@@ -48,7 +48,7 @@ export function Home() {
 
       <Button 
         onPress={handleAddNewSkill} 
-        title='Add'
+        title='new'
            
       />
 
